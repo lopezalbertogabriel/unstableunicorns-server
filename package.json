@@ -1,0 +1,14 @@
+{
+  "name": "mygame-server",
+  "version": "1.0.0",
+  "main": "./src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/socket.io": "^2.1.4",
+    "socket.io": "^2.3.0"
+  }
+}
